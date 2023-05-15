@@ -2,7 +2,6 @@ import { AlbumLIst } from '@/components/Albums/AlbumList';
 import { BackNextButtons } from '@/components/BackNextButtons';
 import { Footer } from '@/components/Footer';
 import { Menu } from '@/components/Menu';
-import { Home as HomeIcon, Search, Library, ChevronLeft, ChevronRight, Play, Shuffle, SkipBack, SkipForward, Repeat, Album } from 'lucide-react';
 import Image from 'next/image';
 
 export default function Home() {
